@@ -11,3 +11,7 @@ https://www.mathworks.com/matlabcentral/fileexchange/61731-read-surf-file
 - csv_zygo
 read data from ASCII file with standard Zygo header (format 
 as described in MetroPro Reference Guide 0347_K)
+
+## author
+Vincenzo Cotroneo
+vcotroneo@cfa.harvard.edu
