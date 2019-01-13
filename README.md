@@ -3,7 +3,7 @@ Python functions to read metrology surface in common instrument formats.
 
 
 List:
-- read_sur_files.py 
+- read_sur_files.readsur
 Read MountainView .sur binary files by Digital Surf. 
 From Matlab routine by Eike Foremny 
 https://www.mathworks.com/matlabcentral/fileexchange/61731-read-surf-file
